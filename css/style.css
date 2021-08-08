@@ -70,7 +70,7 @@ ul {
   width: 100%;
   height: 400px;
   object-fit: cover;
-  background-image: url('/img/slide1.png');
+  background-image: url('../img/slide1.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -158,7 +158,7 @@ ul {
 .xbox {
   width: 100%;
   height: 320px;
-  background-image: url('/img/xbox.png');
+  background-image: url('../img/xbox.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -186,7 +186,7 @@ ul {
 }
 
 .carbon {
-  background-image: url('/img/carbon.jpg');
+  background-image: url('../img/carbon.jpg');
   ;
 }
 
